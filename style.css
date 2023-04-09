@@ -1,0 +1,21 @@
+.heading{
+width: 100%;
+font-size: 30px;
+font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
+}
+#saying{
+font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+color: red;
+}
+#div{
+background-color: lightgray;
+}
+#image{
+height: 200px;
+width: 250px;
+}
+#mouse{
+height: 275px;
+width: 200px;
+}
